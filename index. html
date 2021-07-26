@@ -8,7 +8,7 @@
         border: double;
         border-style: solid;
         border-color: black;
-        background-color: grey;
+        background-color: red;
         margin: auto;
       }
 
@@ -41,7 +41,7 @@
         border-color: black;
         margin: auto;
         margin-top: 10px;
-        background-color: grey;
+        background-color: red;
       }
 
       .menu {
