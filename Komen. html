@@ -7,7 +7,7 @@
         border: double;
         border-style: solid;
         border-color: black;
-        background-color: red;
+        background-color: gray;
         margin: auto;
       }
 
@@ -84,7 +84,7 @@
         border: double;
         border-style: solid;
         border-color: black;
-        background-color: red;
+        background-color: gray;
         text-align: center;
         padding-top: 5px;
         padding-bottom: 5px;
