@@ -85,7 +85,7 @@
         border: double;
         border-style: solid;
         border-color: black;
-        background-color: grey;
+        background-color: red;
         text-align: center;
         padding-top: 5px;
         padding-bottom: 5px;
